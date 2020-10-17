@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumericTypes", "NumericType
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreNumericTypes", "MoreNumericTypes\MoreNumericTypes.csproj", "{4FFFCC36-8EA7-43CE-80FB-E488FF380698}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strings", "Strings\Strings.csproj", "{76AE7019-D5CD-4BC2-A8DD-44961C3DA6DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{4FFFCC36-8EA7-43CE-80FB-E488FF380698}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4FFFCC36-8EA7-43CE-80FB-E488FF380698}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4FFFCC36-8EA7-43CE-80FB-E488FF380698}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76AE7019-D5CD-4BC2-A8DD-44961C3DA6DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76AE7019-D5CD-4BC2-A8DD-44961C3DA6DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76AE7019-D5CD-4BC2-A8DD-44961C3DA6DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76AE7019-D5CD-4BC2-A8DD-44961C3DA6DF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
