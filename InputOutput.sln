@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30611.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InputOutput", "InputOutput\InputOutput.csproj", "{212CCDA0-1D18-44B7-A5AE-86B48DFEB634}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InputOutput", "InputOutput\InputOutput.csproj", "{212CCDA0-1D18-44B7-A5AE-86B48DFEB634}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NumericTypes", "NumericTypes\NumericTypes.csproj", "{8CDC0AF0-EA0F-45F1-A750-7712FF1661F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NumericTypes", "NumericTypes\NumericTypes.csproj", "{8CDC0AF0-EA0F-45F1-A750-7712FF1661F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoreNumericTypes", "MoreNumericTypes\MoreNumericTypes.csproj", "{4FFFCC36-8EA7-43CE-80FB-E488FF380698}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{8CDC0AF0-EA0F-45F1-A750-7712FF1661F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8CDC0AF0-EA0F-45F1-A750-7712FF1661F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8CDC0AF0-EA0F-45F1-A750-7712FF1661F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4FFFCC36-8EA7-43CE-80FB-E488FF380698}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FFFCC36-8EA7-43CE-80FB-E488FF380698}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FFFCC36-8EA7-43CE-80FB-E488FF380698}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FFFCC36-8EA7-43CE-80FB-E488FF380698}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
